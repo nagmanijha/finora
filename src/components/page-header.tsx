@@ -1,4 +1,4 @@
-import { Fragment, ReactNode } from "react";
+import { Fragment,type ReactNode } from "react";
 
 interface PageHeaderProps {
     title?: string;
